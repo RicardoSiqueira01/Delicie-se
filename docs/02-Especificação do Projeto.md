@@ -36,8 +36,10 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 ## Modelagem do Processo de Negócio
 
 ### Análise da Situação Atual
+Com o avanço no desenvolvimento mobile, surgiram muitos aplicativos de culinária. No entanto, muitos deles possuem apenas receitas cuja qualidade e eficácia são incertas. Isso resulta, muitas vezes, em pessoas obtendo resultados diferentes dos esperados, causando frustração e, em alguns casos, desperdício de ingredientes. 
 
 ### Descrição Geral da Proposta
+O aplicativo Delicie-se foi criado para superar esse desafio, proporcionando receitas de alta qualidade, testadas e avaliadas pela comunidade, garantindo uma experiência culinária mais confiável e satisfatória.
 
 ### Processo - Modelagem do Processo de Negócio
 
