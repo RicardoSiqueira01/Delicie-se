@@ -9,7 +9,7 @@ O aplicativo Delicie-se busca resolver vários problemas comuns relacionados à 
 
 - Falta de Acesso a Receitas Confiáveis: Encontrar receitas confiáveis e testadas pode ser difícil em meio à vastidão da internet. Delicie-se oferece um espaço onde os usuários podem compartilhar e avaliar receitas, ajudando a garantir que outras pessoas tenham acesso a receitas de qualidade.
 
-- Falta de Comunidade Culinária: Cozinhar pode ser uma experiência solitária, mas muitas pessoas desejam compartilhar suas criações e receber feedback. Delicie-se cria uma comunidade de entusiastas da culinária que podem se conectar, compartilhar dicas e trocar experiências.
+- Falta de Comunidade Culinária: Cozinhar pode ser uma experiência solitária, mas muitas pessoas desejam compartilhar suas criações e receber feedback. 
 
 - Desperdício de Alimentos: Ter um aplicativo que permite aos usuários criar listas de compras com base nas receitas escolhidas ajuda a reduzir o desperdício de alimentos, pois os ingredientes são planejados com antecedência.
 
