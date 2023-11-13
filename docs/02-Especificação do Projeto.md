@@ -27,10 +27,11 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 | ANA VITÓRIA | Como chefe, necessito que na página inicial tenha receitas recém enviadas, bem avaliadas e recomendadas para mim. | Para me servir de inspiração e ver novas ideias de pratos. |
 | ANA VITÓRIA | Quero ter o meu próprio perfil. | Para colocar os meus gostos culinários e minhas próprias receitas. |
 | ANA VITÓRIA | Preciso que haja um sistema de avaliação das receitas. | Para identificar se a receita enviada possui qualidade. |
-| MARIA SILVA | Preciso salvar as receitas que gostei. | Para diminuir o trabalho de ter que encontrá-la novamente. |
-| MARIA SILVA | Quero que o app tenha uma pesquisa por categorias. | Com a idéia de facilitar e agilizar as pesquisas. |
+| SOFIA NUNES | Preciso salvar as receitas que gostei. | Para diminuir o trabalho de ter que encontrá-la novamente. |
+| SOFIA NUNES | Quero que o app tenha uma pesquisa por categorias. | Com a idéia de facilitar e agilizar as pesquisas. |
 | CARLOS BRAGA | Necessito uma pesquisa utilizando ingredientes. | Para encontrar receitas que os usam, no intúito de evitar o desperdício de alimentos. |
-||||
+| LUCAS MOREIRA | Quero que as receitas possuam um medidor de dificuldade, colocado pelo criador da mesma. | Para saber o quão difícil é aquela receita. |
+| MARIA SILVA | Preciso que as receitas possuam um medidor de tempo, informando se ela é: Rápida ou Lenta de ser feita. | Para facilitar a busca por receitas rápidas de serem feitas. |
 
 ## Modelagem do Processo de Negócio
 
