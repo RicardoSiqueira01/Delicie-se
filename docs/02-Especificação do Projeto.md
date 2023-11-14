@@ -36,6 +36,7 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 ## Indicadores de Desempenho
 
 | INDICADOR | OBJETIVOS | DESCRIÇÃO | CÁLCULO | FONTE DE DADOS | PERSPECTIVA |
+|-----------|-----------|-----------|---------|----------------|-------------|
 | Produtividade | avaliar se a equipe está se saindo bem em relação a suas entregas ou se há algo a solucionar. | Verificar as horas de trabalho e tarefas concluídas. |  | Tempo de Trabalho e conclusões | Melhorar a eficiência da equipe |
 |||||||
 |||||||
