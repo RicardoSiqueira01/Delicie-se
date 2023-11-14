@@ -33,17 +33,19 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 | LUCAS MOREIRA | Quero que as receitas possuam um medidor de dificuldade, colocado pelo criador da mesma. | Para saber o quão difícil é aquela receita. |
 | MARIA SILVA | Preciso que as receitas possuam um medidor de tempo, informando se ela é: Rápida ou Lenta de ser feita. | Para facilitar a busca por receitas rápidas de serem feitas. |
 
-## Modelagem do Processo de Negócio
-
-### Análise da Situação Atual
-Com o avanço no desenvolvimento mobile, surgiram muitos aplicativos de culinária. No entanto, muitos deles possuem apenas receitas cuja qualidade e eficácia são incertas. Isso resulta, muitas vezes, em pessoas obtendo resultados diferentes dos esperados, causando frustração e, em alguns casos, desperdício de ingredientes. 
-
-### Descrição Geral da Proposta
-O aplicativo Delicie-se foi criado para superar esse desafio, proporcionando receitas de alta qualidade, testadas e avaliadas pela comunidade, garantindo uma experiência culinária mais confiável e satisfatória.
-
-### Processo - Modelagem do Processo de Negócio
-
 ## Indicadores de Desempenho
+
+| INDICADOR | OBJETIVOS | DESCRIÇÃO | CÁLCULO | FONTE DE DADOS | PERSPECTIVA |
+| Produtividade | avaliar se a equipe está se saindo bem em relação a suas entregas ou se há algo a solucionar. | Verificar as horas de trabalho e tarefas concluídas. |  | Tempo de Trabalho e conclusões | Melhorar a eficiência da equipe |
+|||||||
+|||||||
+|||||||
+|||||||
+|||||||
+|||||||
+|||||||
+|||||||
+|||||||
 
 ## Requisitos
 
